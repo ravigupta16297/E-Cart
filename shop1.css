@@ -1,0 +1,14 @@
+.h1 ul{
+list-style-type:none;
+float:left;
+display:inline;
+height:60px;
+
+}
+.h1 ul li{
+float:left;
+display:inline;
+}
+.h1{
+background-color:grey;
+}
